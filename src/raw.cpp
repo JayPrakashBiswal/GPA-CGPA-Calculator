@@ -1,3 +1,6 @@
+// raw.cpp - GPA calculation logic
+// Author: Jay Prakash Biswal
+
 /*Hi This is Jay prakash and this project is in optimization state
 Last updated - 16th Nov 2022*/
 #include <iostream>

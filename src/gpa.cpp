@@ -1,3 +1,6 @@
+// gpa.cpp - GPA calculation logic
+// Author: Jay Prakash Biswal
+
 #include <iostream>
 #include "../include/gpa.h"
 #include "../include/utils.h"

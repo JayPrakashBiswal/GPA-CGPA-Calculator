@@ -1,3 +1,6 @@
+// cgpa.cpp - GPA calculation logic
+// Author: Jay Prakash Biswal
+
 #include <iostream>
 #include "../include/cgpa.h"
 using namespace std;

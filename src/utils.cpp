@@ -1,3 +1,6 @@
+// utils.cpp - GPA calculation logic
+// Author: Jay Prakash Biswal
+
 #include <iostream>
 #include "../include/utils.h"
 

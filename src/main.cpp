@@ -1,5 +1,16 @@
 /*Hi This is Jay prakash and this project is in optimization state
-Last updated - 16th Nov 2022*/
+Last updated - 28th Aug 2025*/
+/**************************************************************
+ * Project: GPA & CGPA Calculator
+ * Author : Jay Prakash Biswal
+ * Email  : your-email@example.com
+ * Date   : 28-Aug-2025
+ * Description:
+ *     A console-based C++ application to calculate GPA
+ *     (Grade Point Average) and CGPA (Cumulative GPA)
+ *     for multiple subjects and semesters.
+ **************************************************************/
+
 
 #include <iostream>
 #include <iomanip>
